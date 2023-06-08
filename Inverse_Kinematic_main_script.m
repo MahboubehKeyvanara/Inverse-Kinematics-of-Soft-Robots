@@ -15,7 +15,9 @@
 % The output of the code is:  L (length of each soft segment), 
 % phi (deflection angle of each segment with respect to the X-axis) , 
 % theta (bending angle of each soft segment)
-
+%
+%
+% Activate the plot in Inverse_Kinematics_final.m file
 
 
 

@@ -42,8 +42,11 @@ ub(2:3:3*numseg) = 140/(2*num_link); % Higher boundary of bending angle
 ub(3:3:3*numseg) = 180; % Higher boundary of Phi
 
 % Figure Initialize
-figure('units','pixels','position',[0 100 1920 1080])
-hold on
+if nargin>4 && plotting == true
+    figure('units','pixels','position',[0 100 1920 1080])
+    hold on
+end
+
 % Uncomment next three lines if video recording is required
 % v = VideoWriter('3Segment_4tu.avi');
 % v.FrameRate = 10;
@@ -161,7 +164,7 @@ end
 param.L = num_link*(d_L(:,2:end)+L_link);
 param.th = (2*num_link)*abs(th(:,2:end));
 param.phi = phi(:,2:end);
-if nargin>4
+if nargin>4 && plotting == true
     param.err = err(2:end);
 end
 end
