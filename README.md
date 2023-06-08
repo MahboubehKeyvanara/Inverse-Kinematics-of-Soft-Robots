@@ -1,1 +1,1 @@
-# Inverse-Kinematics-of-Soft-Robots-Robots
+# Inverse-Kinematics-of-Soft-Robots
