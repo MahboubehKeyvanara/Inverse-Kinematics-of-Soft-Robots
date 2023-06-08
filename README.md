@@ -3,6 +3,7 @@
 Full code of the inverse kinematics of 3D multi-segment extensible soft robots.
 
 Video: 
+
 [![Inverse_Kinematics of Soft Robots](https://img.youtube.com/vi/Tl1P8RlE88A/0.jpg)](https://www.youtube.com/watch?v=Tl1P8RlE88A)
 
 
