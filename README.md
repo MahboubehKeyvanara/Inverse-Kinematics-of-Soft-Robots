@@ -14,19 +14,15 @@ Run code "Inverse_Kinematics_main_script.m" and adjust the robot configuration a
 # Citing this work:
 If you find this work useful, please consider citing: 
 
+
+'''
 @misc{keyvanara2022geometric,
-   
-   title={A geometric approach towards inverse kinematics of soft extensible pneumatic actuators intended for trajectory tracking}, 
- 
- author={Mahboubeh Keyvanara and Arman Goshtasbi and Irene A. Kuling},
-
+title={A geometric approach towards inverse kinematics of soft extensible pneumatic actuators intended for trajectory tracking}, 
+author={Mahboubeh Keyvanara and Arman Goshtasbi and Irene A. Kuling},
 year={2022},
- 
- eprint={2211.06259},
- 
- archivePrefix={arXiv},
- 
- primaryClass={cs.RO}
-
+eprint={2211.06259},
+archivePrefix={arXiv},
+primaryClass={cs.RO}
 }
+'''
 
