@@ -10,6 +10,8 @@ Video:
 # Instructions: 
 Run code "Inverse_Kinematics_main_script.m" and adjust the robot configuration and also desired trajectory. 
 
+Activate plotting in code "Inverse_Kinematics_final.m".
+
 
 # Citing this work:
 If you find this work useful, please consider citing: 
