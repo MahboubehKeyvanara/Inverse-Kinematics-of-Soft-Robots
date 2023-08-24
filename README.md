@@ -22,13 +22,20 @@ If you find this work useful, please consider citing:
 
 
 ```
-@misc{keyvanara2022geometric,
-title={A geometric approach towards inverse kinematics of soft extensible pneumatic actuators intended for trajectory tracking}, 
-author={Mahboubeh Keyvanara and Arman Goshtasbi and Irene A. Kuling},
-year={2022},
-eprint={2211.06259},
-archivePrefix={arXiv},
-primaryClass={cs.RO}
+@Article{s23156882,
+AUTHOR = {Keyvanara, Mahboubeh and Goshtasbi, Arman and Kuling, Irene A.},
+TITLE = {A Geometric Approach towards Inverse Kinematics of Soft Extensible Pneumatic Actuators Intended for Trajectory Tracking},
+JOURNAL = {Sensors},
+VOLUME = {23},
+YEAR = {2023},
+NUMBER = {15},
+ARTICLE-NUMBER = {6882},
+URL = {https://www.mdpi.com/1424-8220/23/15/6882},
+PubMedID = {37571667},
+ISSN = {1424-8220},
+DOI = {10.3390/s23156882}
 }
 ```
+
+
 
