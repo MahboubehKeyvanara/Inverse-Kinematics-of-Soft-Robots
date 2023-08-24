@@ -4,7 +4,8 @@ Full code of the inverse kinematics of 3D multi-segment extensible soft robots.
 
 Paper link:
 
-https://arxiv.org/abs/2211.06259
+https://www.mdpi.com/1424-8220/23/15/6882
+
 
 Video: 
 
