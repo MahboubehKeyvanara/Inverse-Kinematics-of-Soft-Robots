@@ -9,7 +9,7 @@ https://www.mdpi.com/1424-8220/23/15/6882
 
 Video: 
 
-[![Inverse_Kinematics of Soft Robots](https://img.youtube.com/vi/Tl1P8RlE88A/0.jpg)](https://www.youtube.com/watch?v=Tl1P8RlE88A)
+[![Inverse_Kinematics of Soft Robots](https://img.youtube.com/vi/EYuKwtSX3gg/0.jpg)](https://www.youtube.com/watch?v=EYuKwtSX3gg)
 
 
 # Instructions: 
